@@ -1,0 +1,38 @@
+
+body{
+    background-image: url(descarga.jpeg);
+    font-family: tahoma;
+}
+h1 {
+    font-family: Courier;
+    color: purple;
+    font-size: 45px;
+    border: dashed;
+    border-color: #872187;
+    background-color: #EEBBEE;
+    border-radius: 20px;
+}
+
+h2{
+    background-color: #F4D2F4;
+}
+
+h3{
+font-family: verdana;
+margin-Left:20px;
+}
+
+div{
+    background-color: #EEBBEE;
+}
+img {
+    border-radius: 60px;
+}
+
+p{
+    margin-left: 30px;
+}
+
+
+
+
