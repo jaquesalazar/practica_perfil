@@ -15,22 +15,35 @@ h1 {
 
 h2{
     background-color: #F4D2F4;
+    color: #DD597D;
+    border-radius: 10px;
+    border: dashed;
 }
 
 h3{
-font-family: verdana;
-margin-Left:20px;
+    font-family: verdana;
+    margin-Left:20px;
+}
+
+h4{
+    padding: 4px;
+}
+
+a{
+    padding: 6px;
 }
 
 div{
     background-color: #EEBBEE;
+    border-radius: 20px;
 }
 img {
-    border-radius: 60px;
+    border-radius: 70px;
 }
 
 p{
     margin-left: 30px;
+    font-size: 18px;
 }
 
 
