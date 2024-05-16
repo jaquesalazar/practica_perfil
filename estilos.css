@@ -33,10 +33,12 @@ a{
     padding: 6px;
 }
 
-div{
+.div2{
     background-color: #EEBBEE;
     border-radius: 20px;
+   
 }
+
 img {
     border-radius: 70px;
 }
@@ -44,6 +46,18 @@ img {
 p{
     margin-left: 30px;
     font-size: 18px;
+}
+
+.foto{
+    width: 130px;
+    height: 112px;
+    justify-self: center;
+    align-self: center;
+}
+
+.contenerdor{
+    display: flex; 
+    align-items: center;
 }
 
 
