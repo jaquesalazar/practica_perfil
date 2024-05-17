@@ -65,11 +65,17 @@ p{
 table{
     border: dashed;
     border-color: #1F88A7;
+    font-family: monospace;
+    font-size: 15px;
 }
 caption{
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
+}
+
+li{
+padding-left: 40px;
+font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 
